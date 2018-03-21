@@ -1,0 +1,12 @@
+Install all the requirments listed in requirement.txt file before executing program
+
+for first program:
+	command	-> python3 1.py
+
+for second program:
+	command -> python3 2.py
+
+for third program:
+	assign value to host_name,user,password,db
+	command -> python3 3.py
+		
